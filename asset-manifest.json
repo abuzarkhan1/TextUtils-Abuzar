@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TextUtils-Abuzar/static/css/main.31d6cfe0.css",
+    "main.js": "/TextUtils-Abuzar/static/js/main.fa259c3b.js",
+    "static/js/787.719ec76d.chunk.js": "/TextUtils-Abuzar/static/js/787.719ec76d.chunk.js",
+    "index.html": "/TextUtils-Abuzar/index.html",
+    "main.fa259c3b.js.map": "/TextUtils-Abuzar/static/js/main.fa259c3b.js.map",
+    "787.719ec76d.chunk.js.map": "/TextUtils-Abuzar/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.fa259c3b.js"
+  ]
+}
